@@ -6,4 +6,4 @@ Mohammed Asrar U, 23MIC0121.
 - `site.html?id=NN` viewer with Previous/Next and Show code
 - `sites/01.html` to `42.html` the assessments (Q9, Q10, Q27 have extra linked pages)
 
-Run: `python -m http.server` and open http://localhost:8000/gallery.html, or deploy the folder to Vercel/Netlify.
+Run: `python -m http.server 4000` and open http://localhost:4000/gallery.html, or deploy the folder to Vercel/Netlify.
